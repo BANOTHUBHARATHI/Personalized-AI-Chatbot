@@ -14,11 +14,6 @@ This project is an interactive **AI-powered tutor chatbot** that uses **Google's
 
 ---
 
-## 📸 Preview
-
-> _Add screenshots or a demo GIF here if available._
-
----
 
 ## 🛠️ Technologies Used
 
@@ -29,6 +24,4 @@ This project is an interactive **AI-powered tutor chatbot** that uses **Google's
 - [YouTube Data API v3](https://developers.google.com/youtube/v3)
 
 ---
-
-## 📂 Project Structure
 
